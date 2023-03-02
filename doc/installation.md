@@ -122,7 +122,7 @@ To install `omniflixhubd` client, follow the steps below:
 ```bash
 git clone https://github.com/OmniFlix/omniflixhub.git
 cd omniflixhub
-git checkout v0.9.0-gon-test
+git checkout v0.9.0-gon-test2
 make install
 ```
 
